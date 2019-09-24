@@ -33,7 +33,7 @@ That’s up from the previous survey in 2014-15, the primary time cyberbullying 
 
 The survey doesn’t address UN agency the aggressors square measure, tho’ women were additional possible to notice that their bullies were gave the impression to have the flexibility to influence others.
 
-Lauren Paul, founding father of the sort Campaign, aforesaid ninetieth of the stories she hears whereas operating in colleges square measure {of women|of women|of ladies} hangdog by alternative girls. The California-based noncommercial launched a decade past to specialize in “girl against girl” bullying through free academic programming that reaches concerning three hundred colleges a year.
+
 
 Paul recollects meeting one lady UN agency was psychoneurotic concerning her social media accounts as a result of a gaggle of women excluded her if she didn’t get enough likes or follows in any given week. She went to this point on fastidiously produce faux profiles simply to fulfill her quota.
 
