@@ -1,13 +1,13 @@
 # Site Settings
-title: My Cars | I had the need to travel back to a automobile
+title: My Life | I had the need to travel back to a automobile
 email: doan_trong_binh@yahoo.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aeonaccess.com" # the base hostname & protocol for your site
-google_analytics: "UA-145008131-1"
+url: "https://downsload.info" # the base hostname & protocol for your site
+google_analytics: "UA-148607554-1"
 
 # User Settings
-username: My Cars
+username: My Life
 user_description: Some text about you.
 disqus_username: disqus_username
 
