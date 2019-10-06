@@ -1,5 +1,7 @@
 <footer>
-<center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+    <p>
+	<center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Vuonhann -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:350px;height:200px"
@@ -8,7 +10,6 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
-    <p>
       {% if site.github_username %}
       <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
         <svg><use xlink:href="#icon-github"></use></svg>
